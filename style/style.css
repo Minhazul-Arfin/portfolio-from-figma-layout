@@ -1,0 +1,25 @@
+*{
+    font-family: Open Sans;
+}
+
+.header-navbar{
+    display: flex;
+}
+.header-navbar ul{
+    display: flex;
+    text-align: justify;
+    
+}
+.header-navbar ul li{
+    list-style: none;
+}
+
+.orange-text{
+    color: #FD6E0A;
+}
+.orange-btn{
+    background-color: #FD6E0A;
+    border: 0px;
+    border-radius: 2px;
+    padding: 5px;
+}
