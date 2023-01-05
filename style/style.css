@@ -161,6 +161,11 @@ header{
 }
 
 /* What I Know Style */
+.about-me-txt{
+    font-weight: 700;
+    font-size: 35px;
+    color: #181818;
+}
 .what-i-know-container{
     display: flex;
     margin-top: 50px;
@@ -189,5 +194,50 @@ header{
     font-weight: 400;
     font-size: 16px;
     color: #757575;
-    
+}
+
+/* Resume Container */
+.resume-container{
+    display: flex;
+}
+
+/* Resume Style */
+.resume-section{
+    margin-right: 230px;
+    margin-left: 230px;
+}
+.div-1{
+    padding-right: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #D1D1D1;
+    margin-right: 20px;
+}
+.h-1{
+    display: flex;
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+    padding-bottom: 0px;
+    width: 405px;
+    height: 34px;
+}
+.h-2{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    width: 405px;
+    height: 34px;
+}
+.h-3{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    width: 309px;
+    height: 27px;
+}
+.h-4{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
 }
